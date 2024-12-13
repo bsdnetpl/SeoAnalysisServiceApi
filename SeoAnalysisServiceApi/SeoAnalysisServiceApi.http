@@ -1,0 +1,6 @@
+@SeoAnalysisServiceApi_HostAddress = http://localhost:5139
+
+GET {{SeoAnalysisServiceApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
